@@ -13,6 +13,8 @@ const showScreen = ({ navigation }) => {
     )
 };
 
+
+
 const styles = StyleSheet.create({});
 
 export default showScreen;
